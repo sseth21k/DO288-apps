@@ -36,9 +36,6 @@ pipeline {
            }
       }
 
-        // TODO: ADD A STAGE THAT SAYS HELLO
-
-        // TODO: ADD AN APPROVAL STAGE
 
         stage('stage 3') {
             steps {
